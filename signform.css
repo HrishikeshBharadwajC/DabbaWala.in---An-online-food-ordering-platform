@@ -1,0 +1,92 @@
+body {
+						padding: 0;
+						margin: 0;
+						top: 0;
+						background-image: url("food/kabab.jpg");
+						background-repeat: no-repeat;
+						background-size: cover;
+						width: 100%;
+						}	
+					#rect {
+						margin-top: -20px;
+						width: 100%;
+						height: 100px;
+						top: 0;
+						left: 0;
+						box-shadow: 5px 10px 8px 0 rgba(0, 0, 0, 0.2), 5px 6px 20px 0 rgba(0, 0, 0, 0.19);
+						background:rgba(0,0,0,0.5);
+					}	
+					h1 {
+						color: white;
+						font-family: sans-serif;
+						text-align: center;
+						margin-top: -7px;
+
+					}
+					.middlebox {
+						position:absolute;
+						top:20%;
+						left: 35%;
+						background-color:white;	
+						box-shadow: 5px 4px 8px 0 rgba(0, 0, 0, 0.2), 5px 6px 20px 0 rgba(0, 0, 0, 0.19);
+						background:rgba(0,0,0,0.5);
+						font-family: Lato, 'helvetica neue', helvetica, sans-serif;
+						border: none;
+						margin: auto;
+						width: 30%;
+						color: white;
+						transition: 1s;
+						padding: 10px;
+						
+					}
+					.middlebox:hover {
+
+					}
+					#name, #password1, #password2, #e-mail, #contact, #password3 {
+						height:30px;
+						font-size:16px;
+						border:solid 1px #dcdcdc;
+						width:100%;
+						text-align: left;
+						padding-left: 10px;
+						}
+					.right{
+						display:none;
+					}
+					input{
+						margin-top:10px;
+						margin-left: 15px;
+					}
+					form {
+						text-align: left;
+					}
+					#upbutton {
+						padding: 20px 0;
+						text-align: center;
+					}
+					#signup {
+						background: transparent;
+						color: white;
+						vertical-align: center;
+						border:1px solid white;
+						border-radius: 2px; 
+						width: 150px;
+						height: 30px
+					}
+					#signup:hover {
+						background-color: white;
+						color: black;
+					}
+					#myform {
+						width: 300px;
+						margin: auto;
+						padding-bottom: 0px;
+					}
+					.textt a{
+						color: #ebebeb;
+						padding: 2px;
+					}
+					p.textt {
+						line-height: 40%;
+					}
+			

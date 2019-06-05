@@ -1,0 +1,122 @@
+#back{
+	background:url(food/four.jpg) bottom center no-repeat;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	height:600px;
+}
+.details{
+	font-family:arial;
+}
+#logo1{
+	font-family:arial;
+	width:100%;
+	text-align:center;
+	padding:0px;
+	font-size:2em;
+	margin-top:18%;
+	color:#f2f2f2;
+}
+.input{
+	padding:3px;
+	border-radius:3px;
+	border:solid #2d2d2d 1px; 
+}
+#comment{
+	font-size:20px;
+	border:solid 1px #dcdcdc;
+	text-align: left;
+	border-radius:5px;
+	background-color:rgba(255,255,255,0.4);
+	padding: 10px;
+	}
+#review{
+	text-align:center;
+}
+
+#review:hover{
+	font-size:127%;
+}
+
+#review a{
+	text-decoration:none;
+	color:#0483cc;
+	font-family:arial;
+}
+
+.img{
+	float:left;
+	width:40%;
+	padding:10%;
+}
+
+.comment p{
+	padding-top:5%;
+	text-align:
+}
+
+#app{
+	background-color:rgba(36,187,170,0.6);
+}
+
+#main-box{
+	background-color:rgba(0,0,0,0.3);
+	height:100%;
+	padding:1px 0px;
+	width:100%;
+}
+
+#tag{
+	font-family:verdana;
+	font-size:1.6em;
+}
+
+.details{
+	width:75%;
+	margin-left:15%;
+}
+
+#comments{
+	padding-bottom:5px;
+}
+
+#comments h2{
+	text-align:center;
+	font-weight:600;
+	font-size:1.6em;
+	font-family:arial;
+}
+#search1 {
+	color: white;
+	float: left;
+	width: 100px;
+	height: 45px;
+	background-color:rgba(0,0,0,0.6);
+	border-radius: 1px;
+	border:1px solid white;
+	}
+	#search1:hover {
+	transition: width 10s;
+	color: black;
+	background: white;
+    }	
+.details h3{
+	font-weight:600;
+	font-size:1.0em;
+	font-family:arial;
+}
+
+#aboutus h2{
+	font-weight:600;
+	font-size:1.6em;
+	font-family:arial;
+}
+
+#aboutus{
+	background-color:#fff;
+}
+
+.details p{
+	font-size:120%;
+	font-weight:300;
+}
